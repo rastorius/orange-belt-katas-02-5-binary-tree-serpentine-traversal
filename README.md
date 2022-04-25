@@ -5,12 +5,11 @@ https://www.codewars.com/kata/5268988a1034287628000156/train/javascript
 
 ### 📘 #1 Validating the input
 
-As a  
+As a user  
 I want to validate the input  
-So that I
+So that I can traverse trees
 
 #### 📜 #1 Scenario
 
-**GIVEN**  
-**WHEN**  
-**THEN** 
+**GIVEN** input  
+**THEN** input should be a node
