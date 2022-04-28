@@ -1,4 +1,4 @@
-const {Node} = require("../src/solution");
+const {Node} = require("../src/node");
 
 describe("Serpentine traverse input validation tests", () => {
     it("GIVEN a node WHEN serpentine traversed THEN should return correct sequence", () => {
