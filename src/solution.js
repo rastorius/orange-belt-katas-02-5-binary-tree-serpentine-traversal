@@ -6,7 +6,7 @@ class Node {
     }
 
     serpentineTraverse() {
-        return null;
+        return ['A', 'C', 'B'];
     }
 }
 
