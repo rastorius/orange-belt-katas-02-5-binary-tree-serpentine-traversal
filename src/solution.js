@@ -1,5 +1,13 @@
-function testFunction() {
-    return false;
+class Node {
+    constructor(value, left, right) {
+        this.value = value;
+        this.left = left;
+        this.right = right;
+    }
+
+    serpentineTraverse() {
+        return null;
+    }
 }
 
-module.exports.testFunction = testFunction;
+module.exports.Node = Node;

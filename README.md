@@ -11,5 +11,6 @@ So that I can traverse trees
 
 #### 📜 #1 Scenario
 
-**GIVEN** input  
-**THEN** input should be a node
+**GIVEN** a node  
+**WHEN** the node is serpentine traversed  
+**THEN** should return correct sequence
