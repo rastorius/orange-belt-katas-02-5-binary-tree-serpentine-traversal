@@ -1,11 +1,9 @@
 {
   "name": "template",
   "scripts": {
-    "test": "jest",
-    "cucumber": "cucumber-js"
+    "cucumber": "cucumber-js --publish-quiet"
   },
   "devDependencies": {
-    "jest": "^27.5.1",
     "eslint": "^8.11.0",
     "@cucumber/cucumber": "^8.1.2"
   },
